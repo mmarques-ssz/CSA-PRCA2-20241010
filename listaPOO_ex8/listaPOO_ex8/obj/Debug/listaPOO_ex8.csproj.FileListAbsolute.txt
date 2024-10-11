@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\listaPOO_ex8\listaPOO_ex8\bin\Debug\listaPOO_ex8.exe.config
+C:\Users\aluno\source\repos\listaPOO_ex8\listaPOO_ex8\bin\Debug\listaPOO_ex8.exe
+C:\Users\aluno\source\repos\listaPOO_ex8\listaPOO_ex8\bin\Debug\listaPOO_ex8.pdb
+C:\Users\aluno\source\repos\listaPOO_ex8\listaPOO_ex8\obj\Debug\listaPOO_ex8.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\listaPOO_ex8\listaPOO_ex8\obj\Debug\listaPOO_ex8.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\listaPOO_ex8\listaPOO_ex8\obj\Debug\listaPOO_ex8.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\listaPOO_ex8\listaPOO_ex8\obj\Debug\listaPOO_ex8.exe
+C:\Users\aluno\source\repos\listaPOO_ex8\listaPOO_ex8\obj\Debug\listaPOO_ex8.pdb
